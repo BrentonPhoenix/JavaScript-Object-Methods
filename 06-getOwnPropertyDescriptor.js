@@ -34,4 +34,7 @@ console.log("descriptor2.value:", descriptor2.value)
 console.log("object2.property1:" ,object2.property1)
 
 
-//seems like it might be an issue with github/the program. everytime it happens it opens up the working tree of this file which is blank. I'm going to try stashing the changes and then run it again.(and possible restart my computer: "have you tried turning it off and on again? do that.")
+//seems like it might be an issue with github/the program. everytime it happens it opens up the working tree of this file which is blank. I'm going to try pushing the changes and then run it again.(and possible restart my computer: "have you tried turning it off and on again? do that.")
+
+//it's the program, I haven't messed with any settings reciently so time to google it.
+//ok it looks like my mouse is double clicking super fast and when I run the code it is also hitting the open changes button. Not what I expected the issue to be, but way more managable than messing around with vscode or github :).
